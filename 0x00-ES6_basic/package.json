@@ -1,0 +1,12 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "ES6 Basics",
+  "main": "0-constants.js",
+  "scripts": {
+    "dev": "node 0-main.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
